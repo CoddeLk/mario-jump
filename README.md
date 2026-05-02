@@ -10,7 +10,7 @@ Um jogo clássico inspirado no Super Mario, desenvolvido com tecnologias web fun
 ## 🚀 Demonstração
 
 Você pode jogar a versão online aqui:  
-👉 [**Link para o seu GitHub Pages**](https://CoddeLk.github.io/cyber-jump/)  
+👉 [**https://coddelk.github.io/mario-jump/**](https://CoddeLk.github.io/cyber-jump/)  
 *(Substitua pelo link gerado no seu GitHub Settings > Pages)*
 
 ---
