@@ -1,5 +1,5 @@
 # 🍄 Mario Jump - Web Game
-[![GitHub stars](https://img.shields.io/github/stars/CoddeLk/cyber-jump?style=social)](https://github.com/CoddeLk/cyber-jump/stargazers)
+
 
 Um jogo clássico inspirado no Super Mario, desenvolvido com tecnologias web fundamentais. O objetivo é simples: pular os obstáculos e sobreviver o maior tempo possível! 🏃‍♂️💨
 
